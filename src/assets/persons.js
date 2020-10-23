@@ -26998,6 +26998,22 @@ export const data = {
         state: "Cebu",
         country: "Philippines",
       },
-    }
+    },
+    {
+    id: uuidv4(),
+    name: "Abhishek Gaikwad",
+    img: "",
+    links: {
+      website: "",
+      linkedin: "www.linkedin.com/in/abhishek-gaikwad-v",
+      github: "https://github.com/AbhishekGaikwadV/E-commerce_in_React_Redux.git"
+    },
+    jobTitle: "Fullstack Developer",
+    location: {
+      city: "",
+      state: "Maharashtra",
+      country: "India"
+    },
+  },
   ],
 }
